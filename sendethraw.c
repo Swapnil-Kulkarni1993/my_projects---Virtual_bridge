@@ -44,7 +44,7 @@ int main(int argc, char *argv[])
 	    printf("Send failed\n");
 */
 
-   printf("Data sent successfully...!!!\n\n");
+   printf("Data sent successfully yayy...!!!\n\n");
    close(sockfd);
 	return 0;
 }
